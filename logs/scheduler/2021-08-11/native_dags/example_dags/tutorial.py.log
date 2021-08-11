@@ -12,3 +12,122 @@
 [2021-08-11 10:45:07,484] {logging_mixin.py:104} INFO - [2021-08-11 10:45:07,484] {dag.py:1833} INFO - Sync 1 DAGs
 [2021-08-11 10:45:07,490] {logging_mixin.py:104} INFO - [2021-08-11 10:45:07,490] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
 [2021-08-11 10:45:07,498] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.045 seconds
+[2021-08-11 10:45:59,241] {scheduler_job.py:181} INFO - Started process (PID=69566) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:45:59,241] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:45:59,242] {logging_mixin.py:104} INFO - [2021-08-11 10:45:59,242] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:45:59,248] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:45:59,272] {logging_mixin.py:104} INFO - [2021-08-11 10:45:59,272] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:45:59,277] {logging_mixin.py:104} INFO - [2021-08-11 10:45:59,277] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:45:59,285] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.045 seconds
+[2021-08-11 10:46:50,348] {scheduler_job.py:181} INFO - Started process (PID=69612) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:46:50,348] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:46:50,349] {logging_mixin.py:104} INFO - [2021-08-11 10:46:50,349] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:46:50,360] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:46:50,392] {logging_mixin.py:104} INFO - [2021-08-11 10:46:50,392] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:46:50,399] {logging_mixin.py:104} INFO - [2021-08-11 10:46:50,399] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:46:50,406] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.060 seconds
+[2021-08-11 10:47:46,697] {scheduler_job.py:181} INFO - Started process (PID=69684) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:47:46,697] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:47:46,697] {logging_mixin.py:104} INFO - [2021-08-11 10:47:46,697] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:47:46,704] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:47:46,730] {logging_mixin.py:104} INFO - [2021-08-11 10:47:46,730] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:47:46,735] {logging_mixin.py:104} INFO - [2021-08-11 10:47:46,735] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:47:46,744] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2021-08-11 10:48:41,996] {scheduler_job.py:181} INFO - Started process (PID=69782) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:48:41,996] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:48:41,997] {logging_mixin.py:104} INFO - [2021-08-11 10:48:41,997] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:48:42,003] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:48:42,060] {logging_mixin.py:104} INFO - [2021-08-11 10:48:42,060] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:48:42,082] {logging_mixin.py:104} INFO - [2021-08-11 10:48:42,081] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:48:42,101] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.106 seconds
+[2021-08-11 10:49:42,239] {scheduler_job.py:181} INFO - Started process (PID=69853) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:49:42,239] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:49:42,240] {logging_mixin.py:104} INFO - [2021-08-11 10:49:42,240] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:49:42,248] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:49:42,286] {logging_mixin.py:104} INFO - [2021-08-11 10:49:42,285] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:49:42,293] {logging_mixin.py:104} INFO - [2021-08-11 10:49:42,292] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:49:42,301] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2021-08-11 10:50:41,873] {scheduler_job.py:181} INFO - Started process (PID=69965) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:50:41,876] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:50:41,876] {logging_mixin.py:104} INFO - [2021-08-11 10:50:41,876] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:50:41,884] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:50:41,908] {logging_mixin.py:104} INFO - [2021-08-11 10:50:41,908] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:50:41,913] {logging_mixin.py:104} INFO - [2021-08-11 10:50:41,913] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:50:41,919] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds
+[2021-08-11 10:51:38,632] {scheduler_job.py:181} INFO - Started process (PID=70074) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:51:38,632] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:51:38,633] {logging_mixin.py:104} INFO - [2021-08-11 10:51:38,633] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:51:38,640] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:51:38,670] {logging_mixin.py:104} INFO - [2021-08-11 10:51:38,670] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:51:38,677] {logging_mixin.py:104} INFO - [2021-08-11 10:51:38,677] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:51:38,686] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.055 seconds
+[2021-08-11 10:52:34,762] {scheduler_job.py:181} INFO - Started process (PID=70181) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:52:34,763] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:52:34,763] {logging_mixin.py:104} INFO - [2021-08-11 10:52:34,763] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:52:34,773] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:52:34,807] {logging_mixin.py:104} INFO - [2021-08-11 10:52:34,807] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:52:34,814] {logging_mixin.py:104} INFO - [2021-08-11 10:52:34,814] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:52:34,823] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.061 seconds
+[2021-08-11 10:53:33,025] {scheduler_job.py:181} INFO - Started process (PID=70294) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:53:33,028] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:53:33,029] {logging_mixin.py:104} INFO - [2021-08-11 10:53:33,029] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:53:33,037] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:53:33,063] {logging_mixin.py:104} INFO - [2021-08-11 10:53:33,063] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:53:33,070] {logging_mixin.py:104} INFO - [2021-08-11 10:53:33,069] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:53:33,078] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.053 seconds
+[2021-08-11 10:54:23,495] {scheduler_job.py:181} INFO - Started process (PID=70357) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:54:23,498] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:54:23,498] {logging_mixin.py:104} INFO - [2021-08-11 10:54:23,498] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:54:23,506] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:54:23,535] {logging_mixin.py:104} INFO - [2021-08-11 10:54:23,535] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:54:23,542] {logging_mixin.py:104} INFO - [2021-08-11 10:54:23,542] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:54:23,550] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.055 seconds
+[2021-08-11 10:55:24,436] {scheduler_job.py:181} INFO - Started process (PID=70471) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:55:24,436] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:55:24,437] {logging_mixin.py:104} INFO - [2021-08-11 10:55:24,437] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:55:24,445] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:55:24,474] {logging_mixin.py:104} INFO - [2021-08-11 10:55:24,474] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:55:24,480] {logging_mixin.py:104} INFO - [2021-08-11 10:55:24,480] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:55:24,489] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.053 seconds
+[2021-08-11 10:56:24,455] {scheduler_job.py:181} INFO - Started process (PID=70578) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:56:24,456] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:56:24,456] {logging_mixin.py:104} INFO - [2021-08-11 10:56:24,456] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:56:24,462] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:56:24,486] {logging_mixin.py:104} INFO - [2021-08-11 10:56:24,486] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:56:24,492] {logging_mixin.py:104} INFO - [2021-08-11 10:56:24,492] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:56:24,500] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.045 seconds
+[2021-08-11 10:57:19,211] {scheduler_job.py:181} INFO - Started process (PID=70697) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:57:19,213] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:57:19,213] {logging_mixin.py:104} INFO - [2021-08-11 10:57:19,213] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:57:19,223] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:57:19,249] {logging_mixin.py:104} INFO - [2021-08-11 10:57:19,249] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:57:19,254] {logging_mixin.py:104} INFO - [2021-08-11 10:57:19,254] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:57:19,264] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.054 seconds
+[2021-08-11 10:58:16,466] {scheduler_job.py:181} INFO - Started process (PID=70800) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:58:16,467] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:58:16,467] {logging_mixin.py:104} INFO - [2021-08-11 10:58:16,467] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:58:16,473] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:58:16,497] {logging_mixin.py:104} INFO - [2021-08-11 10:58:16,497] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:58:16,503] {logging_mixin.py:104} INFO - [2021-08-11 10:58:16,503] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:58:16,512] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.046 seconds
+[2021-08-11 10:59:16,206] {scheduler_job.py:181} INFO - Started process (PID=70912) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:59:16,207] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 10:59:16,207] {logging_mixin.py:104} INFO - [2021-08-11 10:59:16,207] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:59:16,214] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 10:59:16,246] {logging_mixin.py:104} INFO - [2021-08-11 10:59:16,245] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:59:16,253] {logging_mixin.py:104} INFO - [2021-08-11 10:59:16,253] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:59:16,262] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.056 seconds
+[2021-08-11 11:00:13,154] {scheduler_job.py:181} INFO - Started process (PID=71030) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 11:00:13,155] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 11:00:13,155] {logging_mixin.py:104} INFO - [2021-08-11 11:00:13,155] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 11:00:13,162] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 11:00:13,194] {logging_mixin.py:104} INFO - [2021-08-11 11:00:13,194] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 11:00:13,201] {logging_mixin.py:104} INFO - [2021-08-11 11:00:13,200] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 11:00:13,209] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.055 seconds
+[2021-08-11 11:01:12,974] {scheduler_job.py:181} INFO - Started process (PID=71140) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 11:01:12,974] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-08-11 11:01:12,975] {logging_mixin.py:104} INFO - [2021-08-11 11:01:12,975] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 11:01:12,981] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2021-08-11 11:01:13,006] {logging_mixin.py:104} INFO - [2021-08-11 11:01:13,006] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 11:01:13,012] {logging_mixin.py:104} INFO - [2021-08-11 11:01:13,012] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-09 00:00:00+00:00
+[2021-08-11 11:01:13,020] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.047 seconds

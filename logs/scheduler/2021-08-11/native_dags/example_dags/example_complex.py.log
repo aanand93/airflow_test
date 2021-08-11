@@ -5,3 +5,122 @@
 [2021-08-11 10:44:48,694] {logging_mixin.py:104} INFO - [2021-08-11 10:44:48,694] {dag.py:1833} INFO - Sync 1 DAGs
 [2021-08-11 10:44:48,701] {logging_mixin.py:104} INFO - [2021-08-11 10:44:48,700] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
 [2021-08-11 10:44:48,709] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.063 seconds
+[2021-08-11 10:45:42,971] {scheduler_job.py:181} INFO - Started process (PID=69545) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:45:42,971] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:45:42,972] {logging_mixin.py:104} INFO - [2021-08-11 10:45:42,972] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:45:42,982] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:45:43,010] {logging_mixin.py:104} INFO - [2021-08-11 10:45:43,009] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:45:43,015] {logging_mixin.py:104} INFO - [2021-08-11 10:45:43,015] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:45:43,023] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.053 seconds
+[2021-08-11 10:46:38,789] {scheduler_job.py:181} INFO - Started process (PID=69604) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:46:38,790] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:46:38,790] {logging_mixin.py:104} INFO - [2021-08-11 10:46:38,790] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:46:38,803] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:46:38,840] {logging_mixin.py:104} INFO - [2021-08-11 10:46:38,839] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:46:38,847] {logging_mixin.py:104} INFO - [2021-08-11 10:46:38,847] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:46:38,856] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2021-08-11 10:47:32,545] {scheduler_job.py:181} INFO - Started process (PID=69656) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:47:32,545] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:47:32,545] {logging_mixin.py:104} INFO - [2021-08-11 10:47:32,545] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:47:32,558] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:47:32,588] {logging_mixin.py:104} INFO - [2021-08-11 10:47:32,588] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:47:32,594] {logging_mixin.py:104} INFO - [2021-08-11 10:47:32,594] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:47:32,603] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.059 seconds
+[2021-08-11 10:48:28,863] {scheduler_job.py:181} INFO - Started process (PID=69761) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:48:28,867] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:48:28,870] {logging_mixin.py:104} INFO - [2021-08-11 10:48:28,870] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:48:28,884] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:48:28,921] {logging_mixin.py:104} INFO - [2021-08-11 10:48:28,920] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:48:28,926] {logging_mixin.py:104} INFO - [2021-08-11 10:48:28,926] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:48:28,932] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2021-08-11 10:49:27,162] {scheduler_job.py:181} INFO - Started process (PID=69842) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:49:27,162] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:49:27,162] {logging_mixin.py:104} INFO - [2021-08-11 10:49:27,162] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:49:27,173] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:49:27,202] {logging_mixin.py:104} INFO - [2021-08-11 10:49:27,202] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:49:27,208] {logging_mixin.py:104} INFO - [2021-08-11 10:49:27,208] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:49:27,217] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2021-08-11 10:50:26,750] {scheduler_job.py:181} INFO - Started process (PID=69933) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:50:26,751] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:50:26,751] {logging_mixin.py:104} INFO - [2021-08-11 10:50:26,751] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:50:26,764] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:50:26,793] {logging_mixin.py:104} INFO - [2021-08-11 10:50:26,793] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:50:26,798] {logging_mixin.py:104} INFO - [2021-08-11 10:50:26,798] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:50:26,807] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2021-08-11 10:51:24,092] {scheduler_job.py:181} INFO - Started process (PID=70047) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:51:24,092] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:51:24,092] {logging_mixin.py:104} INFO - [2021-08-11 10:51:24,092] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:51:24,108] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:51:24,141] {logging_mixin.py:104} INFO - [2021-08-11 10:51:24,141] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:51:24,147] {logging_mixin.py:104} INFO - [2021-08-11 10:51:24,147] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:51:24,156] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
+[2021-08-11 10:52:18,184] {scheduler_job.py:181} INFO - Started process (PID=70153) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:52:18,185] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:52:18,185] {logging_mixin.py:104} INFO - [2021-08-11 10:52:18,185] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:52:18,198] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:52:18,230] {logging_mixin.py:104} INFO - [2021-08-11 10:52:18,230] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:52:18,236] {logging_mixin.py:104} INFO - [2021-08-11 10:52:18,236] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:52:18,244] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2021-08-11 10:53:17,359] {scheduler_job.py:181} INFO - Started process (PID=70264) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:53:17,359] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:53:17,361] {logging_mixin.py:104} INFO - [2021-08-11 10:53:17,361] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:53:17,372] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:53:17,401] {logging_mixin.py:104} INFO - [2021-08-11 10:53:17,401] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:53:17,406] {logging_mixin.py:104} INFO - [2021-08-11 10:53:17,406] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:53:17,415] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2021-08-11 10:54:12,238] {scheduler_job.py:181} INFO - Started process (PID=70338) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:54:12,240] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:54:12,241] {logging_mixin.py:104} INFO - [2021-08-11 10:54:12,241] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:54:12,253] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:54:12,285] {logging_mixin.py:104} INFO - [2021-08-11 10:54:12,285] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:54:12,295] {logging_mixin.py:104} INFO - [2021-08-11 10:54:12,295] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:54:12,302] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
+[2021-08-11 10:55:09,266] {scheduler_job.py:181} INFO - Started process (PID=70444) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:55:09,267] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:55:09,267] {logging_mixin.py:104} INFO - [2021-08-11 10:55:09,267] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:55:09,278] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:55:09,309] {logging_mixin.py:104} INFO - [2021-08-11 10:55:09,309] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:55:09,314] {logging_mixin.py:104} INFO - [2021-08-11 10:55:09,314] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:55:09,323] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2021-08-11 10:56:09,535] {scheduler_job.py:181} INFO - Started process (PID=70556) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:56:09,535] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:56:09,536] {logging_mixin.py:104} INFO - [2021-08-11 10:56:09,536] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:56:09,548] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:56:09,581] {logging_mixin.py:104} INFO - [2021-08-11 10:56:09,580] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:56:09,587] {logging_mixin.py:104} INFO - [2021-08-11 10:56:09,587] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:56:09,597] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.062 seconds
+[2021-08-11 10:57:06,193] {scheduler_job.py:181} INFO - Started process (PID=70670) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:57:06,195] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:57:06,197] {logging_mixin.py:104} INFO - [2021-08-11 10:57:06,196] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:57:06,226] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:57:06,311] {logging_mixin.py:104} INFO - [2021-08-11 10:57:06,310] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:57:06,329] {logging_mixin.py:104} INFO - [2021-08-11 10:57:06,329] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:57:06,346] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2021-08-11 10:58:02,975] {scheduler_job.py:181} INFO - Started process (PID=70773) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:58:02,976] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:58:02,976] {logging_mixin.py:104} INFO - [2021-08-11 10:58:02,976] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:58:02,988] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:58:03,017] {logging_mixin.py:104} INFO - [2021-08-11 10:58:03,017] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:58:03,024] {logging_mixin.py:104} INFO - [2021-08-11 10:58:03,024] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:58:03,033] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2021-08-11 10:59:04,726] {scheduler_job.py:181} INFO - Started process (PID=70892) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:59:04,726] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 10:59:04,726] {logging_mixin.py:104} INFO - [2021-08-11 10:59:04,726] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:59:04,737] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 10:59:04,767] {logging_mixin.py:104} INFO - [2021-08-11 10:59:04,766] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:59:04,772] {logging_mixin.py:104} INFO - [2021-08-11 10:59:04,772] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 10:59:04,781] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2021-08-11 11:00:03,225] {scheduler_job.py:181} INFO - Started process (PID=71009) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 11:00:03,228] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 11:00:03,231] {logging_mixin.py:104} INFO - [2021-08-11 11:00:03,230] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 11:00:03,242] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 11:00:03,274] {logging_mixin.py:104} INFO - [2021-08-11 11:00:03,274] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 11:00:03,279] {logging_mixin.py:104} INFO - [2021-08-11 11:00:03,279] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 11:00:03,288] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2021-08-11 11:01:01,704] {scheduler_job.py:181} INFO - Started process (PID=71121) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 11:01:01,704] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-08-11 11:01:01,705] {logging_mixin.py:104} INFO - [2021-08-11 11:01:01,704] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 11:01:01,715] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2021-08-11 11:01:01,742] {logging_mixin.py:104} INFO - [2021-08-11 11:01:01,742] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 11:01:01,748] {logging_mixin.py:104} INFO - [2021-08-11 11:01:01,748] {dag.py:2306} INFO - Setting next_dagrun for example_complex to None
+[2021-08-11 11:01:01,754] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds

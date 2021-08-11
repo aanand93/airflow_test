@@ -12,3 +12,122 @@
 [2021-08-11 10:45:13,446] {logging_mixin.py:104} INFO - [2021-08-11 10:45:13,446] {dag.py:1833} INFO - Sync 1 DAGs
 [2021-08-11 10:45:13,453] {logging_mixin.py:104} INFO - [2021-08-11 10:45:13,453] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
 [2021-08-11 10:45:13,460] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.048 seconds
+[2021-08-11 10:46:03,994] {scheduler_job.py:181} INFO - Started process (PID=69569) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:46:03,994] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:46:03,995] {logging_mixin.py:104} INFO - [2021-08-11 10:46:03,995] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:46:04,000] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:46:04,024] {logging_mixin.py:104} INFO - [2021-08-11 10:46:04,024] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:46:04,030] {logging_mixin.py:104} INFO - [2021-08-11 10:46:04,030] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:46:04,038] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2021-08-11 10:46:56,193] {scheduler_job.py:181} INFO - Started process (PID=69616) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:46:56,194] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:46:56,194] {logging_mixin.py:104} INFO - [2021-08-11 10:46:56,194] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:46:56,203] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:46:56,246] {logging_mixin.py:104} INFO - [2021-08-11 10:46:56,246] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:46:56,256] {logging_mixin.py:104} INFO - [2021-08-11 10:46:56,256] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:46:56,272] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.079 seconds
+[2021-08-11 10:47:52,559] {scheduler_job.py:181} INFO - Started process (PID=69694) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:47:52,560] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:47:52,560] {logging_mixin.py:104} INFO - [2021-08-11 10:47:52,560] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:47:52,567] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:47:52,593] {logging_mixin.py:104} INFO - [2021-08-11 10:47:52,593] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:47:52,598] {logging_mixin.py:104} INFO - [2021-08-11 10:47:52,598] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:47:52,607] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.048 seconds
+[2021-08-11 10:48:48,100] {scheduler_job.py:181} INFO - Started process (PID=69798) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:48:48,100] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:48:48,103] {logging_mixin.py:104} INFO - [2021-08-11 10:48:48,102] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:48:48,111] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:48:48,138] {logging_mixin.py:104} INFO - [2021-08-11 10:48:48,138] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:48:48,143] {logging_mixin.py:104} INFO - [2021-08-11 10:48:48,143] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:48:48,152] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.053 seconds
+[2021-08-11 10:49:48,343] {scheduler_job.py:181} INFO - Started process (PID=69859) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:49:48,343] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:49:48,344] {logging_mixin.py:104} INFO - [2021-08-11 10:49:48,344] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:49:48,352] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:49:48,391] {logging_mixin.py:104} INFO - [2021-08-11 10:49:48,391] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:49:48,401] {logging_mixin.py:104} INFO - [2021-08-11 10:49:48,401] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:49:48,411] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.069 seconds
+[2021-08-11 10:50:47,568] {scheduler_job.py:181} INFO - Started process (PID=69979) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:50:47,569] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:50:47,571] {logging_mixin.py:104} INFO - [2021-08-11 10:50:47,570] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:50:47,577] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:50:47,603] {logging_mixin.py:104} INFO - [2021-08-11 10:50:47,603] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:50:47,609] {logging_mixin.py:104} INFO - [2021-08-11 10:50:47,609] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:50:47,626] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.058 seconds
+[2021-08-11 10:51:44,457] {scheduler_job.py:181} INFO - Started process (PID=70084) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:51:44,457] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:51:44,458] {logging_mixin.py:104} INFO - [2021-08-11 10:51:44,458] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:51:44,464] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:51:44,490] {logging_mixin.py:104} INFO - [2021-08-11 10:51:44,490] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:51:44,496] {logging_mixin.py:104} INFO - [2021-08-11 10:51:44,496] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:51:44,504] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.048 seconds
+[2021-08-11 10:52:39,607] {scheduler_job.py:181} INFO - Started process (PID=70191) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:52:39,607] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:52:39,607] {logging_mixin.py:104} INFO - [2021-08-11 10:52:39,607] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:52:39,614] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:52:39,639] {logging_mixin.py:104} INFO - [2021-08-11 10:52:39,639] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:52:39,645] {logging_mixin.py:104} INFO - [2021-08-11 10:52:39,645] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:52:39,653] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.047 seconds
+[2021-08-11 10:53:38,187] {scheduler_job.py:181} INFO - Started process (PID=70297) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:53:38,189] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:53:38,190] {logging_mixin.py:104} INFO - [2021-08-11 10:53:38,190] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:53:38,198] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:53:38,229] {logging_mixin.py:104} INFO - [2021-08-11 10:53:38,229] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:53:38,236] {logging_mixin.py:104} INFO - [2021-08-11 10:53:38,236] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:53:38,244] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.058 seconds
+[2021-08-11 10:54:29,148] {scheduler_job.py:181} INFO - Started process (PID=70374) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:54:29,151] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:54:29,151] {logging_mixin.py:104} INFO - [2021-08-11 10:54:29,151] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:54:29,158] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:54:29,183] {logging_mixin.py:104} INFO - [2021-08-11 10:54:29,183] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:54:29,189] {logging_mixin.py:104} INFO - [2021-08-11 10:54:29,189] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:54:29,199] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.051 seconds
+[2021-08-11 10:55:31,007] {scheduler_job.py:181} INFO - Started process (PID=70487) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:55:31,008] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:55:31,009] {logging_mixin.py:104} INFO - [2021-08-11 10:55:31,008] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:55:31,026] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:55:31,105] {logging_mixin.py:104} INFO - [2021-08-11 10:55:31,105] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:55:31,118] {logging_mixin.py:104} INFO - [2021-08-11 10:55:31,118] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:55:31,132] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.127 seconds
+[2021-08-11 10:56:30,054] {scheduler_job.py:181} INFO - Started process (PID=70588) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:56:30,054] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:56:30,055] {logging_mixin.py:104} INFO - [2021-08-11 10:56:30,055] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:56:30,061] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:56:30,086] {logging_mixin.py:104} INFO - [2021-08-11 10:56:30,085] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:56:30,091] {logging_mixin.py:104} INFO - [2021-08-11 10:56:30,091] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:56:30,098] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.045 seconds
+[2021-08-11 10:57:24,980] {scheduler_job.py:181} INFO - Started process (PID=70707) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:57:24,982] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:57:24,983] {logging_mixin.py:104} INFO - [2021-08-11 10:57:24,983] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:57:24,990] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:57:25,016] {logging_mixin.py:104} INFO - [2021-08-11 10:57:25,016] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:57:25,022] {logging_mixin.py:104} INFO - [2021-08-11 10:57:25,022] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:57:25,031] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.051 seconds
+[2021-08-11 10:58:21,770] {scheduler_job.py:181} INFO - Started process (PID=70809) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:58:21,770] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:58:21,770] {logging_mixin.py:104} INFO - [2021-08-11 10:58:21,770] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:58:21,776] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:58:21,799] {logging_mixin.py:104} INFO - [2021-08-11 10:58:21,799] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:58:21,805] {logging_mixin.py:104} INFO - [2021-08-11 10:58:21,804] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:58:21,813] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.044 seconds
+[2021-08-11 10:59:21,721] {scheduler_job.py:181} INFO - Started process (PID=70921) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:59:21,722] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 10:59:21,722] {logging_mixin.py:104} INFO - [2021-08-11 10:59:21,722] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:59:21,727] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 10:59:21,751] {logging_mixin.py:104} INFO - [2021-08-11 10:59:21,751] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:59:21,757] {logging_mixin.py:104} INFO - [2021-08-11 10:59:21,757] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:59:21,765] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.045 seconds
+[2021-08-11 11:00:19,056] {scheduler_job.py:181} INFO - Started process (PID=71040) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 11:00:19,057] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 11:00:19,057] {logging_mixin.py:104} INFO - [2021-08-11 11:00:19,057] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 11:00:19,063] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 11:00:19,089] {logging_mixin.py:104} INFO - [2021-08-11 11:00:19,089] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 11:00:19,096] {logging_mixin.py:104} INFO - [2021-08-11 11:00:19,096] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 11:00:19,104] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.049 seconds
+[2021-08-11 11:01:19,823] {scheduler_job.py:181} INFO - Started process (PID=71151) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 11:01:19,824] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-08-11 11:01:19,824] {logging_mixin.py:104} INFO - [2021-08-11 11:01:19,824] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 11:01:19,830] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2021-08-11 11:01:19,857] {logging_mixin.py:104} INFO - [2021-08-11 11:01:19,857] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 11:01:19,864] {logging_mixin.py:104} INFO - [2021-08-11 11:01:19,864] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-08-09 00:00:00+00:00
+[2021-08-11 11:01:19,873] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.050 seconds
