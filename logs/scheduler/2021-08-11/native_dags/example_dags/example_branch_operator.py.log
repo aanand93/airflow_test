@@ -1,0 +1,7 @@
+[2021-08-11 10:44:52,203] {scheduler_job.py:181} INFO - Started process (PID=69462) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-08-11 10:44:52,204] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-08-11 10:44:52,204] {logging_mixin.py:104} INFO - [2021-08-11 10:44:52,204] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-08-11 10:44:52,212] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-08-11 10:44:52,247] {logging_mixin.py:104} INFO - [2021-08-11 10:44:52,247] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:44:52,258] {logging_mixin.py:104} INFO - [2021-08-11 10:44:52,258] {dag.py:2306} INFO - Setting next_dagrun for example_branch_operator to 2021-08-09 00:00:00+00:00
+[2021-08-11 10:44:52,267] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.064 seconds

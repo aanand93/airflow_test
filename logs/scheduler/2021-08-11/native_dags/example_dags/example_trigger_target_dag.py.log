@@ -1,0 +1,14 @@
+[2021-08-11 10:43:54,879] {scheduler_job.py:181} INFO - Started process (PID=69367) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-08-11 10:43:54,880] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-08-11 10:43:54,880] {logging_mixin.py:104} INFO - [2021-08-11 10:43:54,880] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-08-11 10:43:54,888] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-08-11 10:43:54,917] {logging_mixin.py:104} INFO - [2021-08-11 10:43:54,917] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:43:54,923] {logging_mixin.py:104} INFO - [2021-08-11 10:43:54,923] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-08-11 10:43:54,932] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.054 seconds
+[2021-08-11 10:45:15,210] {scheduler_job.py:181} INFO - Started process (PID=69478) to work on /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-08-11 10:45:15,211] {scheduler_job.py:632} INFO - Processing file /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-08-11 10:45:15,211] {logging_mixin.py:104} INFO - [2021-08-11 10:45:15,211] {dagbag.py:496} INFO - Filling up the DagBag from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-08-11 10:45:15,219] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-08-11 10:45:15,246] {logging_mixin.py:104} INFO - [2021-08-11 10:45:15,246] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-11 10:45:15,251] {logging_mixin.py:104} INFO - [2021-08-11 10:45:15,251] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-08-11 10:45:15,258] {scheduler_job.py:189} INFO - Processing /Users/Alex/.local/share/virtualenvs/airflow-1c5-bq0J/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.049 seconds
